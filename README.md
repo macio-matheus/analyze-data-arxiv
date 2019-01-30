@@ -11,6 +11,7 @@ Folder structure
 ```sh
     * notebooks - Contains all notebooks
     * datasets - Must contain all project datasets files
+    * models - Must contains all machine learning models
 ```
 
 Dataset
