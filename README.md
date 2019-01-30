@@ -2,7 +2,7 @@
 Data analysis of the website http://arxiv.org
 
 ```sh
-# Start the topology as defined in http://debezium.io/docs/tutorial/
+# Start the jupyter using docker
 docker-compose up -d
 ```
 
