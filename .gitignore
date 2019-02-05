@@ -107,6 +107,6 @@ venv.bak/
 
 .idea/
 
-datasets/*.json
+#datasets/*.json
 
 models/*.pkl

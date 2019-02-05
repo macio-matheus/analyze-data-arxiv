@@ -21,3 +21,9 @@ Dataset
    wget https://www.dropbox.com/s/ktvn3q2ijfka9zn/authors_paper.json -P ../datasets/
    wget https://www.dropbox.com/s/jbqvl5htdv41c33/papers.json -P ../datasets/
 ```
+
+
+Clustering formed by feature extraction of abstracts from papers
+
+![clusters](https://raw.githubusercontent.com/macio-matheus/analyze-data-arxiv/master/docs/clusters.png)
+ 

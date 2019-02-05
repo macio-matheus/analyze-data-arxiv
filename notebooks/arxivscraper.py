@@ -96,7 +96,7 @@ class Scraper(object):
     Returning all eprints from
     """
 
-    def __init__(self, category, date_from=None, date_until=None, t=30, filters={}):
+    def __init__(self, category, date_from=None, date_until=None, t=5, filters={}):
         self.cat = str(category)
         self.t = t
         DateToday = datetime.date.today()
