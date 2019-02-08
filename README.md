@@ -28,12 +28,12 @@ Chosen topic: math
 
 ### Dataframe paper
 
-![clusters](https://raw.githubusercontent.com/macio-matheus/analyze-data-arxiv/master/docs/dataframe-paper.png)
+![paper](https://raw.githubusercontent.com/macio-matheus/analyze-data-arxiv/master/docs/dataframe-paper.png)
 
 
 ### Network year one
 
-![clusters](https://raw.githubusercontent.com/macio-matheus/analyze-data-arxiv/master/docs/network-preview.png)
+![network](https://raw.githubusercontent.com/macio-matheus/analyze-data-arxiv/master/docs/network-preview.png)
 
 ### Usage
 First of all, build the container using docker-compose and then you can 
