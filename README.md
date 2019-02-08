@@ -34,7 +34,7 @@ Chosen topic: math
 
 ### Network year one
 
-![network](https://raw.githubusercontent.com/macio-matheus/analyze-data-arxiv/master/docs/network-preview.png)
+![network](https://raw.githubusercontent.com/macio-matheus/analyze-data-arxiv/master/docs/network-one.png)
 
 ### Usage
 First of all, build the container using docker-compose and then you can 
